@@ -1,0 +1,6 @@
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Debug\SaleLib.exe.config
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Debug\SaleLib.exe
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Debug\SaleLib.pdb
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Debug\SaleLib.csprojResolveAssemblyReference.cache
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Debug\SaleLib.exe
+c:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Debug\SaleLib.pdb

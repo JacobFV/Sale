@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sale.exe" version="1.0.0.0" publicKeyToken="7c88af117eb495fa" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sale" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sale.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sale.exe" size="27136">
+      <assemblyIdentity name="Sale" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AZZARRWlZ/se2wioVpBBWAde8SigrZzvjIHkko1hQY8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SaleLib.exe" size="32256">
+      <assemblyIdentity name="SaleLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vgubFd3aaWCyUYgW6Ce3Iy8whBlvqo7ORkqD/awINjY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Sale.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=WINDOWS-31SNE7Q\Jacob" issuerKeyHash="523311826a6bfa1a502cd5c0d4bf0c2de3016b07" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>F6z4iCzzv5gyAl0lhlg35h/ygS90cScg11pqRY7EZHE=</DigestValue></Reference></SignedInfo><SignatureValue>SpRWtW+mQoPx+iS/T4CLCWsmI6umLkY2xAS0U9IPkNK5Pov25wsO8ZisvA8VSgqzesyzJhMsuoPsQRGUhFT8ozw9QnsFjW9mr+Dogljx1CX6rNbBWq8Cjyk/B20FtsTlZOqOvlY3radU6PZY8/AjKXOye9L6TaC9y6h9FEsL8P4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tr/we92tgpgnlGyXhhKtoadQu9ysJdkJFopA2g+Lv8Uv+boo/TaNFGyRL+q9a21oKsN9vbc7bdj2qShIbljew4OlJPIV53QnqTnwsFg5WTbpFFabGrhWQGc2nDfgLpSnHfIO0QSKOe8jZUj2KqHsH8/rQW9KfRFzrAGS+YWjSWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7164c48e456a5ad7202771742f81f21fe6375886255d023298bff32c88f8ac17" Description="" Url=""><as:assemblyIdentity name="Sale.exe" version="1.0.0.0" publicKeyToken="7c88af117eb495fa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WINDOWS-31SNE7Q\Jacob</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>t6G9Mlc4h/F0hd4XgmPkgzEZsrKI9/918lfU3NAZNuA=</DigestValue></Reference></SignedInfo><SignatureValue>Nxq8Oy1abeelCe98HDsiTkvai7mERkpdmPDieP6kszJXz282ga2yY+3sM0yY0J9Iqwmz9vAtWg+VwlUwG44u6EA+Xu2hFI0ZlQDoZtYRYgzP1NeAMW+5xQWTU8TPAenCLNRhpgVPdYm+VDOXxTKhAQTl+eEWpRD1nr2cXcGmfPQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tr/we92tgpgnlGyXhhKtoadQu9ysJdkJFopA2g+Lv8Uv+boo/TaNFGyRL+q9a21oKsN9vbc7bdj2qShIbljew4OlJPIV53QnqTnwsFg5WTbpFFabGrhWQGc2nDfgLpSnHfIO0QSKOe8jZUj2KqHsH8/rQW9KfRFzrAGS+YWjSWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQV98WEgQOxo5P+7w21YuRojANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioAVwBJAE4ARABPAFcAUwAtADMAMQBTAE4ARQA3AFEAXABKAGEAYwBvAGIwHhcNMTUxMTE2MTQxNzE4WhcNMTYxMTE1MjAxNzE4WjA1MTMwMQYDVQQDHioAVwBJAE4ARABPAFcAUwAtADMAMQBTAE4ARQA3AFEAXABKAGEAYwBvAGIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALa/8HvdrYKYJ5Rsl4YSraGnULvcrCXZCRaKQNoPi7/FL/m6KP02jRRskS/qvWttaCrDfb23O23Y9qkoSG5Y3sODpSTyFed0J6k58LBYOVk26RRWmxq4VkBnNpw34C6Upx3yDtEEijnvI2VI9iqh7B/P60FvSn0Rc6wBkvmFo0llAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAtEB9ETfp6qdsKV0MXbQqAMEUYVjXKO/v6r9SFX21DwTx6VqiHDsZiIWkyJnIapKTKNOVUKlD+BssdtPSzr3Y5uD0m1TdG3LFggYMpsGGB3V/Z0pZJ5IxgL2ZoF0Xmit1V37CH4lz4MXgRCG8w+n4ZiQ5sNAQkBIXs8BDi1XkXEk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

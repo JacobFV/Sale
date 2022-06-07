@@ -1,0 +1,17 @@
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Release\SaleLib.exe.config
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Release\SaleLib.exe
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\bin\Release\SaleLib.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Release\SaleLib.exe
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Release\SaleLib.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\SaleLib\obj\Release\SaleLib.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\bin\Release\SaleLib.exe.config
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\bin\Release\SaleLib.exe
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\bin\Release\SaleLib.pdb
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.csprojAssemblyReference.cache
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.exe
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.pdb
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\bin\Release\SaleLib.exe.manifest
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\bin\Release\SaleLib.application
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.exe.manifest
+C:\Users\Jacob\Google Drive\Projects\Programming\Professional\Sale\Sale Code\Sale\SaleLib\obj\Release\SaleLib.application

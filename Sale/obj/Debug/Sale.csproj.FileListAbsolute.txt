@@ -1,0 +1,12 @@
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\bin\Debug\Sale.exe.config
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\bin\Debug\Sale.exe
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\bin\Debug\Sale.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\bin\Debug\SaleLib.exe
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\bin\Debug\SaleLib.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.Properties.Resources.resources
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.csproj.GenerateResource.Cache
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.exe
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.SaleForm.resources
+C:\Users\Jacob\documents\visual studio 2013\Projects\Sale\Sale\obj\Debug\Sale.addVerb.resources
